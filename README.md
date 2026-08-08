@@ -8,7 +8,7 @@
 
 ## Обо мне
 
-Мне нравится превращать требования в понятные и надёжные сервисы, разбираться в архитектуре и улучшать качество кода.
+Мне нравится превращать абстрактные идеи в понятные и надёжные сервисы, разбираться в архитектуре и улучшать качество кода.
 
 ## Технологии
 
@@ -30,14 +30,6 @@
 ## Связаться со мной
 
 [![Email](https://img.shields.io/badge/Email-misha230503%40mail.ru-005FF9?style=flat-square&logo=maildotru&logoColor=white)](mailto:misha230503@mail.ru)
-
-## Статистика GitHub
-
-<div align="center">
-
-[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Krukrukruzhka&show_icons=true&theme=transparent&locale=ru&hide_border=true)](https://github.com/Krukrukruzhka)
-
-</div>
 
 ## LeetCode
 
